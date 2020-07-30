@@ -1,1 +1,1 @@
-# prac.gitbub.io
+# prac.github.io
